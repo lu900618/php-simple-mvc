@@ -1,0 +1,15 @@
+{
+  "name":"iFramework",
+  "description":"php mvc framework",
+  "type":"Framework",
+  "keywords":[
+    "php",
+    "mvc",
+    "php framework"
+  ],
+  "require":{
+    "php":">=5.3",
+    "filp/whoops":"*",
+    "symfony/var-dumper":"*"
+  }
+}
